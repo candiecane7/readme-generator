@@ -32,12 +32,28 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: "What are the steps required to install your project?"
+        message: "What are the steps required to install your project? (Required)",
+        validate: installationInput => {
+            if(installationInput){
+                return true;
+            } else {
+                console.log("You must enter steps required to install")
+                return false;
+            }
+        }
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Please provide instructions and examples for use'
+        message: 'Please provide instructions and examples for use',
+        validate: usageInput => {
+            if(usageInput){
+                return true;
+            } else {
+                console.log("You must provide instructions")
+                return false;
+            }
+        }
     },
     {
         type: 'confirm',
@@ -60,23 +76,55 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Contributing',
-        message: 'Please describe how someone can contribute to your project'
+        name: 'contributing',
+        message: 'Please describe how someone can contribute to your project',
+        validate: contributingInput => {
+            if(contributingInput){
+                return true;
+            } else {
+                console.log("You must provide contribution instructions")
+                return false;
+            }
+        }
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'Please add test instructions'
+        message: 'Please add test instructions',
+        validate: testsInput => {
+            if(testsInput){
+                return true;
+            } else {
+                console.log("You must provide test instructions")
+                return false;
+            }
+        }
     },
     {
         type: 'input',
         name: 'githubUsername',
-        message: 'Please provide your Github Username'
+        message: 'Please provide your Github username',
+        validate: githubUsernameInput => {
+            if(githubUsernameInput){
+                return true;
+            } else {
+                console.log("You must provide your GitHub username")
+                return false;
+            }
+        }
     },
     {
         type: 'input',
         name: 'email',
-        message: 'Please provide your email address'
+        message: 'Please provide your email address',
+        validate: emailInput => {
+            if(emailInput){
+                return true;
+            } else {
+                console.log("You must provide an email address")
+                return false;
+            }
+        }
     }
 ];
 
