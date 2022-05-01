@@ -1,20 +1,25 @@
-# hello
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# sure can my friend
+  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
     
 
   ## Table of Contents
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [License](#license)
-  [Contributions](#contributions)
-  [Tests](#tests)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributions](#contributions)
+  - [Tests](#tests)
+  - [License](#license)
 
 ## Description
-my
+this is it
 ## Installation
-name
+no thank you
 ## Usage
-is
+why would you want that
+## Contributions
+i dont want contributions
+## Tests
+who tests things
 ## License
-MIT
+For more information on the Boost license,
+   please visit [Boost](https://www.boost.org/LICENSE_1_0.txt).
