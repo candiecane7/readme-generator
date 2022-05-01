@@ -63,8 +63,8 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license) {
     return `
-  ## License
-  For more information on the ${license} license, please visit ${renderLicenseLink(license)}.`
+## License
+For more information on the ${license} license, please visit ${renderLicenseLink(license)}.`
   } else {
     return "";
   }
