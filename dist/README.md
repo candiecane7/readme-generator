@@ -23,6 +23,6 @@ ugh
 ## Questions
 For more information or to reach out, please [email me](mailto:hall.candice@outlook.com) or check out my [Github](https://github.com/candiecane7)
 
-    ## License
-    For more information on the ISC license,
-   please visit [ISC](https://opensource.org/licenses/ISC).
+## License
+For more information on the ISC license,
+please visit [ISC](https://opensource.org/licenses/ISC).

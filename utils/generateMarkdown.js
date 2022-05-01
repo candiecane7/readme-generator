@@ -63,9 +63,8 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license) {
     return `
-    ## License
-    For more information on the ${license} license,
-   please visit ${renderLicenseLink(license)}.`
+  ## License
+  For more information on the ${license} license, please visit ${renderLicenseLink(license)}.`
   } else {
     return "";
   }
@@ -96,6 +95,7 @@ ${data.contributing}
 ${data.tests}
 ## Questions
 For more information or to reach out, please [email me](mailto:${data.email}) or check out my [Github](https://github.com/${data.githubUsername})
+
 ${renderLicenseSection(data.license)}
 `;
 }
