@@ -1,4 +1,4 @@
-# ollie project
+# The Ollie Project
   
 
   ## Table of Contents
@@ -10,16 +10,15 @@
   - [License](#license)
 
 ## Description
-project all about ollie
+it's a project all about my dog Ollie
 ## Installation
-hes a puppy you dont have to install him
+not a clue
 ## Usage
 no thanks
 ## Contributions
-email or text me bro
+email me or reach out another way! Be creative
 ## Tests
-ugh
+nope thanks though
 ## Questions
-For more information or to reach out, please [email me](no) or check out my [Github](no)
-## License
+For more information or to reach out, please [email me](mailto:hall.candice@outlook.com) or check out my [Github](www.github.com/candiecane7)
 
