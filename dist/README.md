@@ -1,6 +1,5 @@
-# sure can my friend
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
-    
+# ollie project
+  
 
   ## Table of Contents
   - [Description](#description)
@@ -11,15 +10,16 @@
   - [License](#license)
 
 ## Description
-this is it
+project all about ollie
 ## Installation
-no thank you
+hes a puppy you dont have to install him
 ## Usage
-why would you want that
+no thanks
 ## Contributions
-i dont want contributions
+email or text me bro
 ## Tests
-who tests things
+ugh
+## Questions
+For more information or to reach out, please [email me](no) or check out my [Github](no)
 ## License
-For more information on the Boost license,
-   please visit [Boost](https://www.boost.org/LICENSE_1_0.txt).
+
