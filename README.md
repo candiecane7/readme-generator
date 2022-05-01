@@ -44,3 +44,6 @@ Javascript, Node.js, Inquirer
 
 ## Screenshot
 <img src="./assets/images/readme-screenshot.png">
+
+## Video walkthrough
+[Click Me](https://drive.google.com/file/d/1SFmFQGchTMglK3EgwP9YD8ARXV3bo48Y/view)
