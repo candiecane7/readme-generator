@@ -1,7 +1,7 @@
-# readme-generator
+# Readme-Generator
 
 ## Purpose
-To create a readme.md generator that can be used for various projects.
+To create a readme.md generator using node.js and inquirer that can be used to generate a readme.md for various projects.
 
 ## Usage
 In the command line, run node index.js in the root folder of your project and follow the prompts. Once completed, you will have a readme generated!
@@ -9,11 +9,11 @@ In the command line, run node index.js in the root folder of your project and fo
 
 ## Collaborators
 Shout out to a couple website that really helped me with this project:
--[Stack Overflow](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki)
+- [Stack Overflow](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki)
 This particular question and answer helped me figure out how the syntax for a table of contents
--[W3Schools](https://www.w3schools.io/file/markdown-links/)
+- [W3Schools](https://www.w3schools.io/file/markdown-links/)
 W3Schools always has great information, this time they helped with syntax for email
--[Lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+- [Lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 Shout-out to this person for listing all of the license and badge information I needed!
 
 
