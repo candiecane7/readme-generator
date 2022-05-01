@@ -17,3 +17,16 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+
+{
+  title: 'poop',
+  description: 'its poop',
+  installation: 'clone code then run node index.js in your terminal and follow the prompts.',
+  usage: 'will create a general readme for projects',
+  confirmLicense: true,
+  license: 'MIT',
+  contributing: 'get in touch with me',
+  tests: 'no clue',
+  githubUsername: 'candiecane7',
+  email: 'hall.candice@outlook.com'
+}
