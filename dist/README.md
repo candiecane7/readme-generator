@@ -1,5 +1,5 @@
 # The Ollie Project
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
     
 
 ## Table of Contents
@@ -23,4 +23,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Questions
 For more information or to reach out, please [email me](mailto:email@email.com) or check out my [Github](https://github.com/candiecane7)
 ## License
-For more information on the Apache license, please visit [Apache](http://www.apache.org/licenses/LICENSE-2.0).
+For more information on the Mozilla license, please visit [Mozilla](https://opensource.org/licenses/MPL-2.0).
