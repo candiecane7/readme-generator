@@ -1,5 +1,6 @@
 # The Ollie Project
-  
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+    
 
   ## Table of Contents
   - [Description](#description)
@@ -10,15 +11,18 @@
   - [License](#license)
 
 ## Description
-it's a project all about my dog Ollie
+descriptions describing descriptive things
 ## Installation
-not a clue
-## Usage
 no thanks
+## Usage
+i dont want to
 ## Contributions
-email me or reach out another way! Be creative
+see questions section on how to reach me
 ## Tests
-nope thanks though
+ugh
 ## Questions
-For more information or to reach out, please [email me](mailto:hall.candice@outlook.com) or check out my [Github](www.github.com/candiecane7)
+For more information or to reach out, please [email me](mailto:hall.candice@outlook.com) or check out my [Github](https://github.com/candiecane7)
 
+    ## License
+    For more information on the ISC license,
+   please visit [ISC](https://opensource.org/licenses/ISC).

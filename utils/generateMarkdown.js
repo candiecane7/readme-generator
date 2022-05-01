@@ -95,7 +95,7 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 ## Questions
-For more information or to reach out, please [email me](mailto:${data.email}) or check out my [Github](www.github.com/${data.githubUsername})
+For more information or to reach out, please [email me](mailto:${data.email}) or check out my [Github](https://github.com/${data.githubUsername})
 ${renderLicenseSection(data.license)}
 `;
 }
